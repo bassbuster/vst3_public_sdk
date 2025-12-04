@@ -1,6 +1,6 @@
 [submodule "samples/vst/vinylcontroller"]
 	path = samples/vst/vinylcontroller
-	url = git@github.com:bassbuster/vst3_vinylcontroller.git
+	url = ../vst3_vinylcontroller.git
 [submodule "samples/vst/megalay"]
 	path = samples/vst/megalay
-	url = git@github.com:bassbuster/vst3_delay.git
+	url = ../vst3_delay.git
